@@ -46,7 +46,13 @@ StudentManagementPortal/
 ├── .gitignore
 └── README.md
 '''
-
+```
+todo-app/
+├── src/                    # React frontend source files
+├── api/                    # Flask backend API
+├── public/                 # Static files
+└── package.json           # Project dependencies
+```
 ## Setup Instructions
 1. Clone the repository
 2. Install Python dependencies: pip install -r requirements.txt
