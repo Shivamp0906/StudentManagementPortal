@@ -18,6 +18,7 @@ A web-based application built using **Flask** (backend) and **React** (frontend)
 
 ## Directory Structure
 
+'''
 StudentManagementPortal/
 │
 ├── backend/
@@ -44,7 +45,7 @@ StudentManagementPortal/
 │
 ├── .gitignore
 └── README.md
-
+'''
 
 ## Setup Instructions
 1. Clone the repository
