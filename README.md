@@ -18,7 +18,7 @@ A web-based application built using **Flask** (backend) and **React** (frontend)
 
 ## Directory Structure
 
-'''
+```
 StudentManagementPortal/
 │
 ├── backend/
@@ -45,13 +45,6 @@ StudentManagementPortal/
 │
 ├── .gitignore
 └── README.md
-'''
-```
-todo-app/
-├── src/                    # React frontend source files
-├── api/                    # Flask backend API
-├── public/                 # Static files
-└── package.json           # Project dependencies
 ```
 ## Setup Instructions
 1. Clone the repository
